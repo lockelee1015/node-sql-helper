@@ -1,6 +1,6 @@
 #node-sql-helper
 
-this is a sql builder engined by es6 template string
+A sql builder engined by es6 template string.
 
 ###how to install
 
